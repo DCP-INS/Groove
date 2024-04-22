@@ -1,3 +1,4 @@
+# Groove
 This folder contains the data, computer code and document files for the article:
 Zalta A., Large E.W., Schon D. and Morillon, B. (2024). Neural dynamics of predictive timing and motor engagement in music listening. Science Advances, 10 (10), eadi2525.
 DOI: 10.1126/sciadv.adi2525
